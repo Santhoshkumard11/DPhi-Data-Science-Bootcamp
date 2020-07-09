@@ -1,0 +1,7 @@
+Logistic Regression (Multiclass Classification): https://www.youtube.com/watch?time_continue=12&v=J5bXOOmkopc&feature=emb_logo
+
+Notebook: https://github.com/codebasics/py/blob/master/ML/8_logistic_reg_multiclass/8_logistic_regression_multiclass.ipynb
+
+Classification accuracy and imbalanced classes: https://www.youtube.com/watch?v=XeJZbCT84Js&feature=emb_logo
+
+Cancer screening part 3: Sensitivity / specificity trade off: https://www.youtube.com/watch?time_continue=58&v=yr73lr4W7Mc&feature=emb_logo
