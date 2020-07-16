@@ -1,0 +1,7 @@
+Python lists: https://www.youtube.com/watch?v=Mt0eAXoEj_Y&feature=emb_logo
+
+Subsetting lists: https://www.youtube.com/watch?v=oBEpWTSH3F8&feature=emb_logo
+
+Manipulating lists: https://www.youtube.com/watch?v=pvZoOHh-mDQ&feature=emb_logo
+
+Tuples: https://www.youtube.com/watch?time_continue=1&v=XQOWZidQSnE&feature=emb_logo
