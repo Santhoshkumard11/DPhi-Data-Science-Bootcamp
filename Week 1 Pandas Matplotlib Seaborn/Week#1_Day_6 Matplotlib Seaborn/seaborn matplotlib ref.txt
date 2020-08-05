@@ -1,0 +1,5 @@
+An introduction to seaborn: https://seaborn.pydata.org/introduction.html
+
+Official seaborn tutorial: https://seaborn.pydata.org/tutorial.html
+
+Matplotlib Tutorials: https://matplotlib.org/3.2.1/tutorials/index.html
