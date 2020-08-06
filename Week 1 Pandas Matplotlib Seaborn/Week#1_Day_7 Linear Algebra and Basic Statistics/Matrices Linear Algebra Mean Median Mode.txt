@@ -1,0 +1,5 @@
+Matrices and Matrix Algebra: https://www.statisticshowto.com/matrices-and-matrix-algebra/
+
+Linear Algebra Cheat Sheet for Machine Learning: https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/
+
+What is the mean, median, mode?: https://www.youtube.com/watch?v=LJ71Um7Q1EQ&feature=emb_logo
