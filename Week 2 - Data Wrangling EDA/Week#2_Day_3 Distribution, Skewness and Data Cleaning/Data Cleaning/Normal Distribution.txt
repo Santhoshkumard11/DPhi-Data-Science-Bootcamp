@@ -1,0 +1,3 @@
+Stat further reading: https://www.statisticshowto.com/probability-and-statistics/skewed-distribution/
+
+Normal Distribution Definition and Properties: https://www.youtube.com/watch?time_continue=1&v=iMak-EW4HtM&feature=emb_logo
